@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.exe
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\bin\Debug\net6.0\MethodPractice.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\refint\MethodPractice.dll
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\MethodPractice.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\C# codes\MethodPractise\MethodPractice\MethodPractice\obj\Debug\net6.0\ref\MethodPractice.dll
